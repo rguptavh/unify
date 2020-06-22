@@ -1,5 +1,6 @@
 # Unify
 :flags:App developed to help everyone get access to political information.
+Unify has a variety of features to be able to allow users to access nonpartisan information on politics and view pending bills in congress, see upcoming election information, and contact current elected representatives. We also incorporated a moderated political chat forum so citizens can take responsibility, action, and get educated on politics and civics.
 ## 🚀 Installing
 You can clone this repository by running `git clone https://github.com/rguptavh/unify.git`
 ## 🏃‍  Running
